@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:04 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Science!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;December 11, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x201C;Einstein's equation tells us that a little bit of mass equals a lot of energy. That means adding energy, like if you wanted to propel the object forward, increases its mass. You don't notice it normally, but you would if you went fast enough. So the faster you go, the more energy the object gains, and the more massive it becomes. As your object (that is, your ship) approaches the speed of light--but before it can reach it--it becomes infinitely massive, and the only way make something infinitely massive go faster is to use an infinite amount of energy.&#x201D;&#xD;&lt;i&gt;        &#x2014;&lt;/i&gt;&lt;i&gt;&lt;a href="http://www.cracked.com/article_18547_6-reasons-space-travel-will-always-suck_p2.html#ixzz17NR3u153"&gt;Cracked.com&lt;/a&gt;&lt;/i&gt;&lt;i&gt;&#xD;&lt;/i&gt;&#xD;&#xD;I did always know this from somewhere, but whenever pressed for the answer to the smart ass question of &#x201C;why can&#x2019;t anything go faster than the speed of light?&#x201D; complete with a trollface, I just resort to stating that things just &lt;i&gt;can&#x2019;t. &lt;/i&gt;But now I&#x2019;ve re-realized the exact answer! I can educate the nonbelievers!&#xD;&#xD;Knowledge +10&#xD;&#xD;Level up!</richText>
+  </textBox>
+</content>

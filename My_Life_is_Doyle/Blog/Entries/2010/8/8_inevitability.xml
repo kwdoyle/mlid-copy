@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:58 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>inevitability</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I am so internally frustrated right now; I feel like I&#x2019;m going to explode. This is bothering me so much and it&#x2019;s getting annoying now.&#xD;&#xD;&#xD;I can say I feel &#x2026;nothing.</richText>
+  </textBox>
+</content>

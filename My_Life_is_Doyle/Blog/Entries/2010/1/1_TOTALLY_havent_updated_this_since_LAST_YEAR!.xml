@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:54 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>WOAH MAN!!!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>OMG so yeah peeps this is like, an ACTUAL &#x201C;blog&#x201D; entry. So. Yep. Things are lookin&#x2019; up! (Lil&#x2019; Brother,  paragraph 2) and like, things. You should also peruse this website more often, which I know you do not and you should all totally be ashamed of yourselves. Yes. Indeed. Ok, so thassit.&#xD;&#xD;Francis, OUT&#xD;&#xD;(that&#x2019;s-a my new leave-phrase&#x2026;thing).</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>TOTALLY haven&#x2019;t updated this since LAST YEAR!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;January 1, 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

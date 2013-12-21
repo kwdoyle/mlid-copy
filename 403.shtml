@@ -1,0 +1,18 @@
+<style>
+
+div
+{
+	top: 50%;
+	left: 50%;
+	width: 300px;
+	height: 300px;
+	margin-left: -150px;
+	margin-top: -150px;
+	position: absolute;
+	font-size: 500%;
+	font-family: Helvetica, arial, sans-serif;
+}
+</style>
+
+<div><marquee>Pssst, hey bud! You don't have permission to be here. That means you get a 403 ERROR! Now please leave.</marquee></div>
+

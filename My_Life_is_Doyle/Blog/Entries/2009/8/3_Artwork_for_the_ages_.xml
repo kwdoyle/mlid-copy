@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:52 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Be Amazed. Now.</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Artwork for the ages:&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 3, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

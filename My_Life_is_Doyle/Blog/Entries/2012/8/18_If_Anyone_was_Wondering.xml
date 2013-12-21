@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120818" date="2012-08-18 00:22:47 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>If Anyone was Wondering</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 18, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The &#x201C;Blog&#x201D; link in the navibar is absent from the Science page on purpose. My intent was to not have the science page and the blog directly linked.&#xD;&#xD;It is like a literal navigation throughout the entirety of my site. You have to travel back to the main hub to go to the other section.&#xD;&#xD;I will probably wind up posting a new science blog on the science page instead, like I said I was going to do, but haven&#x2019;t gotten around to doing yet. &#xD;&#xD;The two parts of the site are separate, but are linked by a lifelong bond regardless. They are siblings of the same birth yet perform vastly different purposes. If you do not like my decision here then too bad.&#xD;&#xD;&#x2026;&#xD;&#xD;Also yes the comment box seems to have become beheaded. I would assume it is a problem with the code for it; I dunno. I&#x2019;ll fix it somehow eventually.</richText>
+  </textBox>
+</content>

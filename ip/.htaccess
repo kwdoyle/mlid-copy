@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "ip"
+AuthUserFile "/home/mylidoy1/.htpasswds/public_html/ip/passwd"
+require valid-user

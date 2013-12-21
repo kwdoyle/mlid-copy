@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:00 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Oh dear God not again</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 9, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I had yet &lt;i&gt;another &lt;/i&gt;dream last night. This one was worse than the other one.&#xD;&#xD;The details for this dream are a bit fuzzy, but the main epicentral point here was that&#x2026; we had finally gotten together. I don&#x2019;t remember why or how it happened, but it did. I think this took place in some fictional dorm hallway landing, but that&#x2019;s irrelevant to the point.&#xD;&#xD;I remember being so happy too&#x2026; I thought things were finally falling into place&#x2026; only to then wake up and realize the sad fact that it was indeed a dream and to remember how the condition of things &lt;i&gt;actually&lt;/i&gt; stood in reality.&#xD;&#xD;Why must my subconscious agonize me like this? It&#x2019;s bad enough I have to make efforts to deal with it IRL-style, and now I&#x2019;m being plagued with fallacies about everything &#x201C;working out&#x201D; while I sleep.&#xD;&#xD;Nuurgruhh&#x2026;&#xD;&#xD;Fuck me.</richText>
+  </textBox>
+</content>

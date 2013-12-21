@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120818" date="2012-08-18 00:18:41 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Site Modifications Complete!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 20, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The new section of my site is finished! As you might have noticed, there is now a homepage to my site which has links to access this blog as well as the new science section where I will be describing my current projects and the like! You can quick&#x2013;access this new section through the URL science.mylifeisdoyle.com&#xD;&#xD;This site is finally being expanded after three years! Hooray! Be on the lookout for when I finally get around to writing about all my scientific undertakings.</richText>
+  </textBox>
+</content>

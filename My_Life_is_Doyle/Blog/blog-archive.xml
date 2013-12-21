@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://mylifeisdoyle.com/My_Life_is_Doyle/Blog</link>
+    <description>Here, I will be documenting events that occur during my research exploits.
+
+Projects:
+Acartia tonsa Fe limitation</description>
+    <item>
+      <title>On Culturing Iron Limited Phytoplankton&#13;</title>
+      <link>http://mylifeisdoyle.com/My_Life_is_Doyle/Blog/Entries/2013/9/5_On_Culturing_Iron_Limited_Phytoplankton.html</link>
+      <guid isPermaLink="false">90296193-03ac-4b53-beeb-d6ad2d869130</guid>
+      <pubDate>Thu, 5 Sep 2013 07:55:56 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://mylifeisdoyle.com/My_Life_is_Doyle/Blog/Entries/2013/9/5_On_Culturing_Iron_Limited_Phytoplankton.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Mysterious Creature in Copepod Culture</title>
+      <link>http://mylifeisdoyle.com/My_Life_is_Doyle/Blog/Entries/2013/7/17_Mysterious_Creature_in_Copepod_Culture.html</link>
+      <guid isPermaLink="false">1b9be316-add6-40a3-bc4f-fd4355f2355e</guid>
+      <pubDate>Wed, 17 Jul 2013 11:35:48 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://mylifeisdoyle.com/My_Life_is_Doyle/Blog/Entries/2013/7/17_Mysterious_Creature_in_Copepod_Culture.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>M/d/yy</iweb:dateFormat>
+    <iweb:baseURL>http://mylifeisdoyle.com/My_Life_is_Doyle/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

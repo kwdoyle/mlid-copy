@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:58 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Reflections On Life</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 1, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>So I was getting ready to take a shower this morning and was going through random They Might Be Giants songs in my head when I stumbled upon &#x201C;My Man&#x201D; (a song about an unfortunate disabled man who can no longer walk due to problems with his nervous system). And then I realized: that could very well have been &lt;b&gt;me.&lt;/b&gt; So many possible things could have easily have gone wrong. As previously stated, I could have become paralyzed; lost my ability to see correctly; or simply could have not survived the procedure. I really am so very lucky. The only consequence that really happened afterwards was that my eyes couldn&#x2019;t focus all too well when trying to read. That, thankfully, remedied itself; but my eyes still don&#x2019;t &lt;i&gt;completely &lt;/i&gt;come to perfect focus when looking to the left&#x2013;&#x2013;something I&#x2019;ve never told anyone. That&#x2019;s a minor issue though; I can still see perfectly nonetheless.&#xD;&#xD;Sometimes, I think this whole event was &lt;i&gt;meant &lt;/i&gt;to happen or something. It has changed me, I know that. I grew up, in a sense. I now see things differently: things like love, my future, and just life in general. I don&#x2019;t want opportunities to pass me by; if something is present in my life now, I want to act on it. I don&#x2019;t want to let things escape from me. Life is short and you should make the most of it now with what you have.&#xD;&#xD;The world really is an amazing place. Take some time to look around and appreciate it for all it has.</richText>
+  </textBox>
+</content>

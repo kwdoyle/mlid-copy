@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:03 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Regina Spektor is awesome</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;November 7, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x201C;Since roughly January 2005, Spektor has performed on a bright red Baldwin baby grand piano. She opened for The Strokes in 2003 on her first North American tour. Subsequently, she appeared on &#x201C;Late Night with Conan O&#x2019;Brien&#x201D; twice, &#x2018;The Tonight Show&#x2019; with Jay Leno twice, &#x2018;Jimmy Kimmel Live&#x2019;, and &#x2018;Last Call with Carson Daly&#x2019; twice. She has toured the United States and Europe. Although she generally only performs original material, she performed her first covers in 2005, of songs by Leonard Cohen and Madonna for the 2nd Annual Jewish Music &amp; Heritage Festival at the 92nd Street Y in New York City. &lt;b&gt;During both these performances she threw out big cheeses to the audience. No one knows why.&lt;/b&gt;&#x201D;&#xD;&lt;i&gt;&lt;a href="http://www.last.fm/music/Regina+Spektor/+wiki"&gt;Regina Spektor&#x2019;s Biography &#x2013; Last.fm&lt;/a&gt;&lt;/i&gt;&#xD;&#xD;&#xD;Regina Spektor just now gained roughly a billion more awesome points in my book after reading this.</richText>
+  </textBox>
+</content>

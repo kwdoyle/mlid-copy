@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:01 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I greatly dislike when this happens</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 20, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>One of the worst feelings ever: waking up right after a dream, being all &#x201C;:3&#x201D;, and in your half-awake stupor you unknowingly forget what you just dreamt about. Then, once you realize this, you try as hard as you can to recall the dream from those fleeting excerpts you still remember, but you are horribly unsuccessful at it and wind up laying there in bed all &#x201C;D: *drool*&#x201D; while you slowly forget those excerpts as well.&#xD;&#xD;That is what happened to me this morning. It made me so very sad, as I remember that this was a really nice dream too; now lost forever in the complex labyrinth that is my mind. I probably could have had some interesting thing to write about! Oh well. I&#x2019;ll be having some shenanigans to write about soon enough, don&#x2019;t you all worry! &#xD;&#xD;(&#x201C;All&#x201D; referring to a rather small number of people; quite the contrary to what the connotation of the word may imply otherwise).</richText>
+  </textBox>
+</content>

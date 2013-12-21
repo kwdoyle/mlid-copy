@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:00 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Facebook Fails!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Alright everyone, I am planning to take things &#x2026;To The Next Level!&#xD;&#xD;I am going to purchase my very own domain name; it shall be awesome. I will be doing this through the awkwardly named GoDaddy site. The URL name I wish to use is (surprisingly) available too! You&#x2019;d think by now practically &lt;b&gt;every &lt;/b&gt;URL name would be taken or something, but no: that is wrong.&#xD;The new URL name will also become the new name of my site. I owe credit to yet another suite mate for actually coming up with the new name. His name is Andrew. He is a bit rough around the edges, but he has a &lt;i&gt;good heart &lt;/i&gt;somewhere &lt;i&gt;on the inside.&lt;/i&gt;&#xD;I apparently will be needing a MobileMe account to publish my site to my own domain via iWeb. Hopefully that won&#x2019;t be too much of a problem though, seeing as we &lt;i&gt;did &lt;/i&gt;get the MobileMe software when we bought our iMac for the household.&#xD;&#xD;Soon there will be no more tinyurl-ing, nor failness of the t35 hosting site I am trapped in! Because Facebook also feels it is necessary to BLOCK t35.com due to it &#x201C;being reported as malicious by our friendly users.&#x201D; That&#x2019;s what gave rise to the tinyurl era of my URL. Cool Dude Richard had created the first one, tinyurl.com/KevinDoyleBlog, to one-up Facebook; which &lt;i&gt;did &lt;/i&gt;work at the time, but now Facebook wised up and looked past the veil that was tinyurl. Every time I changed something on my site that consequently changed my site&#x2019;s URL, the tinyurl I had became useless; and there is no way to get back ones that were already created. This is also why the current tinyurl is the obnoxiously long &#xD;tinyurl.com/thelifeandtimesofkevin. So much to type. Kind of defeats the purpose of having a &lt;b&gt;tiny&lt;/b&gt;url.&#xD;&#xD;So, I will keep you guaiz updated on this whole shindig. I do hope I will be able to pull this off/go through with this. &lt;b&gt;Only time will tell.&lt;/b&gt;</richText>
+  </textBox>
+</content>

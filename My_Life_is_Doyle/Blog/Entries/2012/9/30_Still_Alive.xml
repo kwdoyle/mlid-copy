@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120930" date="2012-09-30 22:32:23 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Still Alive</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 30, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I still exist. I am just so very busy with school again, like I always am during the school year. Consider the school months my Hiatus time. I will be updating the other half of my site as well as this part more during breaks.&#xD;&#xD;This is just a note to say I did not forget about you faithful readers (which is now probably 0 people.)</richText>
+  </textBox>
+</content>

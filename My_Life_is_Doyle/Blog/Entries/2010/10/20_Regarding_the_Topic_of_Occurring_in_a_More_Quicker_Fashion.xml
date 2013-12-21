@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:02 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Regarding the Topic of Occurring in a More Quicker Fashion</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;October 20, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Things need to speed up. Happen faster. I feel like I&#x2019;m on the right track now; that lots of good things await &#x201C;right around the corner,&#x201D; so to speak, but they&#x2019;re not happening fast enough. Don&#x2019;t get me wrong, I&#x2019;m pretty content with everything at the moment, as well as the idea that there&#x2019;s a great deal of potential for the future. It just has to &lt;b&gt;happen already.&lt;/b&gt;&#xD;&#xD;But anyway, expect another installment of Kevin Listens To coming up sometime in the near future; because, yes, I can now continue that exciting series seeing as music now correctly posts here!</richText>
+  </textBox>
+</content>

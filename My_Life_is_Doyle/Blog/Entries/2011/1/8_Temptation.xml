@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:05 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Temptation</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;January 8, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;And I've never seen anyone quite like you before&#xD;No, I've never met anyone quite like you before&#xD;Thoughts from above hit the people down below&#xD;People in this world, we have no place to go&#xD;Oh, it's the last time&#xD;&lt;/i&gt;&#xD;&#xD;&#xD;So today I was just piddlin&#x2019; around, checking all my Social Networking sites when I stumbled upon a Twitter post (i.e., tweet) by Jukebox The Ghost requesting school submissions for them to come play there. I complied with said request, and was presented with some songs. One being a cover of the song whose lyrics (a portion of) lie above.&#xD;&#xD;It&#x2019;s also a bit odd when you &#x201C;discover&#x201D; a new song and you first hear it as a cover. It feels almost as if you are unworthy; you haven&#x2019;t paid your respects, so to speak, to the &lt;i&gt;original &lt;/i&gt;song.&#xD;&#xD;But too bad. I like Jukebox The Ghost&#x2019;s cover of Temptation without needing to hear the original band who hails from the United Kingdom singing it.&#xD;&#xD;&#xD;&lt;b&gt;Edit:&lt;/b&gt;&#xD;I decided to go back and post the song to compliment the post because the song is just &#x201C;sooo coool.&#x201D;&#xD;&#xD;So go rawk out or whatever.&lt;b&gt;&#xD;&lt;/b&gt;&#xD;&#xD;</richText>
+  </textBox>
+</content>

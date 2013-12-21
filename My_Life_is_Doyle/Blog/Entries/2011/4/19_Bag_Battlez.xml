@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:09 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Bag Battlez&#x2122;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;April 19, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A few weeks back, I was eating dinner at The Greatest Place on Earth: Wendy&#x2019;s, where a new toy sensation that will be sweeping the nation was brought into existence. It is called Bag Battlez. You take a paper lunch bag and fill it with miscellaneous object (e.g., trash) and then CRUSH the bag down to create your very own Baag (an official name hasn&#x2019;t been decided on yet. Or will ever be.)&#xD;&#xD;Once you crush your Bag to create your very own one-of-a-kind Baag, you can then battle them with your friends! No two bags will ever be the same; try to collect them all!! This is going to be the next Beyblades or something.&#xD;&#xD;The Bags will be sold in packs of 5 paper lunch bags of varying colors for $10.99.&#xD;&#xD;&#xD;Here&#x2019;s some concept art for the less imaginative:&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;                            &#xD;     </richText>
+  </textBox>
+</content>

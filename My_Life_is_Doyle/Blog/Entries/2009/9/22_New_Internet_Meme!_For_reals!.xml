@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:53 -0400"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Attention everyone:</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="22_New_Internet_Meme%21_For_reals%21_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Everyone should totally pass this phrase around; make it become popular WORLD WIDE!&#xD;Click &lt;a href="http://www.urbandictionary.com/define.php?term=u+r+the+noob"&gt;here&lt;/a&gt; for the exact definition if the term!&#xD;&#xD;Also visit &lt;a href="http://www.freewebs.com/vgmoose/urthenoob.html"&gt;here&lt;/a&gt; for a &#x201C;verbal description&#x201D; of the term. You know you want to.&#xD;&#xD;&#x2026;&#xD;&#xD;That is all.</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>New Internet Meme! For reals!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 22, 2009&lt;/b&gt;</richText>
+  </textBox>
+</content>

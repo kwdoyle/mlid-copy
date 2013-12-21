@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:00 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hell fucking yeaman</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;September 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I just gained the knowledge on how to create one of those lil&#x2019; pictures-next-to-the-URL dealies, which explains why there is now one present up there! Now the site&#x2019;s URL doesn&#x2019;t look like a fail whereupon it was a &#x201C;little engine that could&#x201D; and, try as it might, it could not muster the ability to load its picture thing.&#xD;&#xD;Also, if you are ever looking for hilarious shenanigans: play Super Smash Bros&#x2019; special brawl with everyone being tiny, have bunny ears, and the game speed be fast; and then have everyone be Ice Climbers and play in Hyrule Temple. &#xD;The reverse is also equally as funny: all play as Bowser, with the same parameters, on the Battlefield.</richText>
+  </textBox>
+</content>

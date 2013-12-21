@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120818" date="2012-08-18 00:18:41 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>We Rescued A Bird!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 31, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_We_Rescued_A_Bird%21_files/shapeimage_1.png" left="0px" top="0px" width="395px" height="210px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today, The Doyle Family has saved a life.&#xD;&#xD;We were eating breakfast out on our deck when my dad noticed some ripples in the pool. Thinking it may have been a bird sitting in the pool, bathing or something of the sort, we went to check it out. Much to our surprise, it was a small baby bird who was gasping for air and struggling to stay alive. (He seemed to be doing a pretty good job of keeping his head above water too). My dad then got the pool skimmer and scooped the little fella out of the water and placed him on the grass. He sat there for a while and dried off a bit before we decided to place him in a shoebox with some newspaper bedding. He seemed pretty tired from swimming for his life, as most animals would, so we let him rest in the box for a bit before returning him to the wild. We read that most fledglings are actually meant to be semi-independent and hop around on the ground to forage for their own food while the parents occasionally come to assist. I felt like I should have known this, being the biology-minded one in my family&#x2026;&#xD;&#xD;Regardless, once it was time, we put the bird back underneath the bush in the shade near where he had fallen in the pool. Later in the day, my mom had gone back out to check on him and found that he wasn&#x2019;t there anymore and had presumably gone inside the bush where she heard many bird chirping.&#xD;&#xD;It&#x2019;s a scary thought, though, that if we were not outside at that exact time, the fate of this bird would have been much different! Maybe one of those pool alarms that let you know if anything falls in would be useful after all&#x2026;&#xD;&#xD;</richText>
+  </textBox>
+</content>

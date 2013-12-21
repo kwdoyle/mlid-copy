@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120818" date="2012-08-18 00:18:40 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Future Plans</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;March 31, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Recently I&#x2019;ve been having some ideas about plans for my site. Seeing as I&#x2019;m getting more involved with research at school and that I am even now in the beginning steps of starting my own experiment, I am going to make a whole new section to my site that will contain all the details of my scientific endeavors! Now I&#x2019;ll finally have something that can mostly stand alone by itself without needing to be updated all the time (not that I update this blog too often anyway). &#xD;&#xD;Expect these new &lt;i&gt;exciting &lt;/i&gt;changes to be occurring within the next few months, seeing as I am still lazy when it comes to messing around with this stuff and I am also not too sure how to properly set this up which means I will be needing some outside assistance from a very well-established computer-man.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:10 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I Am Here to Educate the Masses</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;July 10, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hey guys&#x2014;are you ready to LEARN?! I thought I&#x2019;d like to share with you all a little piece of my educational endeavors this summer. It is a presentation about the Destructive Effects of &lt;b&gt;Acid Rain &lt;/b&gt;on our very own Pine Barrens here on Long Island! Just click play on the slide and be amazed!&#xD;&#xD;Didn&#x2019;t think you&#x2019;d see &lt;i&gt;educational material &lt;/i&gt;here? TOO BAD READ IT ANYWAY.</richText>
+  </textBox>
+</content>

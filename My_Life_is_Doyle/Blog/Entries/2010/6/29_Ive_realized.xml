@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:56 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve realized&#x2026;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;June 29, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&#x2026;All my close friends are all paired up; all have found that &#x201C;special someone.&#x201D; &#xD;&#xD;&#xD;&#x2026;I feel somewhat lonely.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;Edit:&#xD;On second thought, never mind.&#xD;&#xD;Double Edit:&#xD;You know what, &lt;i&gt;really &lt;/i&gt;never mind. I&#x2026; I don&#x2019;t feel lonely at all anymore&#x2026; c:&#xD;As of this point, you can disregard any &#x201C;oh sadness&#x201D; posts. Because that is what they are called(?)&#xD;&#xD;Kbai. Now go look at the update above this one (again) of Richard and me being fat.</richText>
+  </textBox>
+</content>

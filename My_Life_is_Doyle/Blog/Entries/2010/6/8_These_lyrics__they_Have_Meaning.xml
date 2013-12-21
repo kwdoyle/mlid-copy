@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:55 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>These lyrics: they Have Meaning</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;June 8, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;I can't light no more of your darkness&#xD;All my pictures seem to fade to black and white&#xD;I'm growing tired and time stands still before me&#xD;Frozen here on the ladder of my life&#xD;&#xD;&#xD;Too late to save myself from falling&#xD;I took a chance and changed your way of life&#xD;But you misread my meaning when I met you&#xD;Closed the door and left me blinded by the light&#xD;&#xD;&#xD;Don't let the sun go down on me&#xD;Although I search myself, it's always someone else I see&#xD;I'd just allow a fragment of your life to wander free&#xD;But losing everything is like the sun going down on me&#xD;&#xD;&#xD;I can't find, oh the right romantic line&#xD;But see me once and see the way I feel&#xD;Don't discard me just because you think I mean you harm&#xD;But these cuts I have they need love to help them heal&#xD;&#xD;&lt;/i&gt;</richText>
+  </textBox>
+</content>

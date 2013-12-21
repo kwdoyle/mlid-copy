@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 23:00:09 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>HAXOR&#x2019;D TROLOLOL</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;May 29, 2011&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Kevin has been kidnapped and this blog has been hijacked! I can assure you that your favorite internet blogging sensation will be safely returned... of course, only if the following conditions are met:&#xD;&#xD;	1.	One dozen chocolate covered strawberries &#xD;	2.	A ride in a spaceship&#xD;	3.	One billion gazillion TRILLION MILLION DOLLARS&#xD;&#xD;In summation, don&#x2019;t expect very many blog posts until these conditions are fully met. &#xD;&#xD;Sincerely,&#xD;The Anonymous Hacker&#xD;&#xD;</richText>
+  </textBox>
+</content>

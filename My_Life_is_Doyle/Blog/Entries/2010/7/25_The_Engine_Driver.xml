@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:57 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Engine Driver</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;July 25, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I'm an engine driver&#xD;On a long run, on a long run&#xD;Would I were beside her&#xD;She's a long one, such a long one&#xD;&#xD;And if you don't love me let me go&#xD;&#xD;I'm a county lineman&#xD;On the high line, on the high line&#xD;So will be my grandson&#xD;There are powerlines in our bloodlines&#xD;&#xD;And if you don't love me let me go&#xD;&#xD;And I am a writer, writer of fictions&#xD;I am the heart that you call home&#xD;And I've written pages upon pages&#xD;Trying to rid you from my bones&#xD;&#xD;I'm a money lender&#xD;I have fortunes upon fortunes&#xD;Take my hand for tender&#xD;I am tortured, ever tortured&#xD;&#xD;And if you don't love me let me go&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;i&gt;Then the next song transitions so well&#x2026; &#xD;&#xD;        And it sounds like rain&#x2026;&#xD;&lt;/i&gt;</richText>
+  </textBox>
+</content>

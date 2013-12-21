@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="0FB09E79-11AC-43CC-A8E0-1909C4CD9675">
+  <lastEdited clientType="local-build-20120403" date="2012-04-03 22:59:59 -0400"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>One last statement</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;August 13, 2010&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>My heart's been broken. But not in the normal "you'll get over it" sense. This is worse than that. I don't think I'll be able to love anyone the way I did for a long time. I don't want to have that close of a relationship with anyone for quite some time, if ever again. I can't trust people. I don't want to gamble with my emotions anymore. &#xD;&#xD; I've lost my best friend. Or, at least, how she was to me. And that in itself was a lie, which makes it all the more worse. Knowing I&#x2019;ll never talk to you again, at least in the same way as we once did&#x2026;&#xD;&#xD; I don't think I've ever been this sad before. Losing someone who meant this much hurts so much.&#xD;&#xD;It seems like a tragic occurrence that I actually did ever meet you in the first place. To experience what true love would be like, only to now have life be all &#x201C;HA HA you&#x2019;ll never find that again! Now you&#x2019;ll just have to settle for something less than that!&#x201D; Which coincides with me not wanting to try and pursue this kind of relationship with anyone else.&#xD;&#xD;Cause I know I won&#x2019;t find it again. Despite this all being fake, it never seemed so to me. And the advice of &#x201C;ooohhh, there, there; you&#x2019;ll fine someone else; you&#x2019;ll be okkkk :333333333 &lt;3&#x201D; angers me a bit, truthfully. I know it&#x2019;s the only positive sympathetic advice anyone can give, but still. Simply saying that makes it seem like you don&#x2019;t understand any of this.&#xD;&#xD;And I know you don&#x2019;t care; you really don&#x2019;t. You won&#x2019;t be able to understand how I feel. I can&#x2019;t blame you for this. It&#x2019;s just how things are.&#xD;&#xD;I guess things really did have to end this way after all, as devastating as that is.</richText>
+  </textBox>
+</content>
