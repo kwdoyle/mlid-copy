@@ -9,10 +9,10 @@ div
 	margin-left: -150px;
 	margin-top: -150px;
 	position: absolute;
-	font-size: 500%;
+	font-size: 100%;
 	font-family: Helvetica, arial, sans-serif;
 }
 </style>
 
-<div><marquee>Pssst, hey bud! You don't have permission to be here. That means you get a 403 ERROR! Now please leave.</marquee></div>
+<div><marquee>Hey, what are you doing on my ups page? The files aren't here. Put in the actual file name afterwards like this: http://mylifeisdoyle.com/ups/fileyouwant.extension ...Oh yeah, this is a 403 error by the way.</marquee></div>
 

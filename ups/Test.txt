@@ -1,0 +1,1 @@
+This is a test of the Thompkins v3 app and the thomp command that I have installed with the help of Richard Ayoub.
