@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:527C5ED0-37EC-41E6-A14B-CDAB80A85F5C</id>
  <title>Page list Atom feed</title>
- <updated>2015-01-07T13:55:11-05:00</updated>
+ <updated>2015-06-09T15:14:49-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">9E2B8178-B6C1-4D5B-856B-D1E34BE04E10</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2015-01-07T13:55:11.001-05:00</updated>
+  <updated>2015-06-09T15:14:49.001-04:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Book</title>
   <in-navbar xmlns="urn:iweb:">DA5823AD-E045-4774-B4A0-D6A8FDFC7936</in-navbar>
   <link rel="alternate" href="Book.html"/>
-  <updated>2015-01-07T13:55:11.002-05:00</updated>
+  <updated>2015-06-09T15:14:49.002-04:00</updated>
   <content>Book</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Blog</title>
   <in-navbar xmlns="urn:iweb:">BAA299C3-5884-4DA1-9422-38A0F61082AD</in-navbar>
   <link rel="alternate" href="Blog/Blog.html"/>
-  <updated>2015-01-07T13:55:11.003-05:00</updated>
+  <updated>2015-06-09T15:14:49.003-04:00</updated>
   <content>Blog</content>
  </entry>
 </feed>
